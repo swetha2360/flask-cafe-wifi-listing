@@ -21,7 +21,7 @@ A simple Flask web application to list cafes with WiFi availability, ratings for
 
 ## 🖼 Preview
 
-![Cafe List Preview]((https://github.com/user-attachments/assets/2cde589d-b212-46a8-acc7-9dd0e4598816)) <!-- optional screenshot if you want to add -->
+![Cafe List Preview](![Screenshot 2025-05-23 231850](https://github.com/user-attachments/assets/358a6124-7e96-4a0d-aabd-6cd11afd1e23)) <!-- optional screenshot if you want to add -->
 
 ---
 ##📝 Requirements
